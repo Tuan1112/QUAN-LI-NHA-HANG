@@ -36,3 +36,22 @@ D:\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.csproj.CoreCompileInputs.cache
 D:\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha H.8DCBFD73.Up2Date
 D:\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.exe
 D:\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.pdb
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\bin\Debug\QL Nha Hang.exe.config
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\bin\Debug\QL Nha Hang.exe
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\bin\Debug\QL Nha Hang.pdb
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\bin\Debug\EntityFramework.dll
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\bin\Debug\EntityFramework.xml
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL_Nha_Hang.Form1.resources
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL_Nha_Hang.MainFormcs.resources
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL_Nha_Hang.Properties.Resources.resources
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL_Nha_Hang.QuanLyBanForm.resources
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL_Nha_Hang.ThanhToanForm.resources
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL_Nha_Hang.ThongKeForm.resources
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha H.8DCBFD73.Up2Date
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.exe
+C:\Users\Computer\Desktop\LTMTWD\QL Nha Hang\QL Nha Hang\obj\Debug\QL Nha Hang.pdb
