@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QL Nha Hang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|d:\\ql nha hang\\ql nha hang\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\mainformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\mainformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|d:\\ql nha hang\\ql nha hang\\quanlybanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\quanlybanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\thanhtoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\thanhtoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\thongkeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\mainformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\mainformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\thanhtoanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\thanhtoanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\mainformcs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\mainformcs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\quanlybanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\quanlybanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\quanlybanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\quanlybanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|D:\\QL Nha Hang\\ql nha hang\\thanhtoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82BA389-E6D4-4E50-915B-2E49CEFF4666}|QL Nha Hang\\QL Nha Hang.csproj|solutionrelative:ql nha hang\\thanhtoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongKeForm.cs [Design]",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\ThongKeForm.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\ThongKeForm.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\ThongKeForm.cs [Design]",
+              "RelativeToolTip": "QL Nha Hang\\ThongKeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:30:54.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThanhToanForm.cs [Design]",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\ThanhToanForm.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\ThanhToanForm.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\ThanhToanForm.cs [Design]",
+              "RelativeToolTip": "QL Nha Hang\\ThanhToanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:06:40.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyBanForm.cs [Design]",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\QuanLyBanForm.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\QuanLyBanForm.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\QuanLyBanForm.cs [Design]",
+              "RelativeToolTip": "QL Nha Hang\\QuanLyBanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:28:21.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainFormcs.cs [Design]",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\MainFormcs.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\MainFormcs.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\MainFormcs.cs [Design]",
+              "RelativeToolTip": "QL Nha Hang\\MainFormcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:59:32.982Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\Form1.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\Form1.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\Form1.cs [Design]",
+              "RelativeToolTip": "QL Nha Hang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:09:42.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThongKeForm.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\ThongKeForm.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\ThongKeForm.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\ThongKeForm.cs",
+              "RelativeToolTip": "QL Nha Hang\\ThongKeForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:11:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThanhToanForm.Designer.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\ThanhToanForm.Designer.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\ThanhToanForm.Designer.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\ThanhToanForm.Designer.cs",
+              "RelativeToolTip": "QL Nha Hang\\ThanhToanForm.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:44:29.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainFormcs.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\MainFormcs.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\MainFormcs.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\MainFormcs.cs",
+              "RelativeToolTip": "QL Nha Hang\\MainFormcs.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:59:52.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\Form1.Designer.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\Form1.Designer.cs",
+              "RelativeToolTip": "QL Nha Hang\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:28:09.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\Form1.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\Form1.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\Form1.cs",
+              "RelativeToolTip": "QL Nha Hang\\Form1.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAkwPMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:08:05.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\Model\\Model1.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\Model\\Model1.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\Model\\Model1.cs",
+              "RelativeToolTip": "QL Nha Hang\\Model\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:05:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainFormcs.Designer.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\MainFormcs.Designer.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\MainFormcs.Designer.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\MainFormcs.Designer.cs",
+              "RelativeToolTip": "QL Nha Hang\\MainFormcs.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:34:29.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuanLyBanForm.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\QuanLyBanForm.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\QuanLyBanForm.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\QuanLyBanForm.cs",
+              "RelativeToolTip": "QL Nha Hang\\QuanLyBanForm.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowJIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:08:23.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThanhToanForm.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\ThanhToanForm.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\ThanhToanForm.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\ThanhToanForm.cs",
+              "RelativeToolTip": "QL Nha Hang\\ThanhToanForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:15:27.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanLyBanForm.Designer.cs",
+              "DocumentMoniker": "D:\\QL Nha Hang\\QL Nha Hang\\QuanLyBanForm.Designer.cs",
+              "RelativeDocumentMoniker": "QL Nha Hang\\QuanLyBanForm.Designer.cs",
+              "ToolTip": "D:\\QL Nha Hang\\QL Nha Hang\\QuanLyBanForm.Designer.cs",
+              "RelativeToolTip": "QL Nha Hang\\QuanLyBanForm.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAswKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:12:03.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
